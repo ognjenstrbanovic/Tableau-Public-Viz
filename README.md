@@ -1,5 +1,5 @@
 # Tableau Public -- Viz
-# Tableau Homework - Citi Bike Analytics
+## Citi Bike Analytics
 
 ### Before You Begin
 
