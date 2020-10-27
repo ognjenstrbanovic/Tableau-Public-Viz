@@ -1,4 +1,4 @@
-# Tableau Public -- Viz
+# Tableau Public -- Viz 🚴‍♂️
 ## Citi Bike Analytics
 
 ### Before You Begin
