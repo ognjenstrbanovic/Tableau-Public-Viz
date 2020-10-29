@@ -146,11 +146,11 @@ Data Boot Camp (C) 2019. All Rights Reserved.
 
 # And without further ado, here is the final product below!
 
-Here is my first story:
+**Here is my first story:**
 
 ![First Story](https://github.com/ognjenstrbanovic/Tableau-Public-Viz/blob/main/visualizations/My%20First%20Story.jpg?raw=true)
 
-And here is my second story:
+**And here is my second story:**
 
 ![Second Story](https://github.com/ognjenstrbanovic/Tableau-Public-Viz/blob/main/visualizations/My%20First%20Story.jpg?raw=true)
 
