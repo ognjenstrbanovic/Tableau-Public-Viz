@@ -1,4 +1,7 @@
 # Tableau Public -- Viz 🚴‍♂️
+
+![Citi Bike Gif](https://github.com/ognjenstrbanovic/Tableau-Public-Viz/blob/main/gifs/citibike.gif?raw=true)
+
 ## Citi Bike Analytics
 
 ### Before You Begin
