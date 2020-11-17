@@ -153,7 +153,7 @@ Data Boot Camp (C) 2019. All Rights Reserved.
 
 **And here is my second story:**
 
-![Second Story](https://github.com/ognjenstrbanovic/Tableau-Public-Viz/blob/main/visualizations/My%20First%20Story.jpg?raw=true)
+![Second Story](https://github.com/ognjenstrbanovic/Tableau-Public-Viz/blob/main/visualizations/My%20Second%20Story.jpg?raw=true)
 
 Below is the link to my Tableau Public profile... thank you for viewing!
 
