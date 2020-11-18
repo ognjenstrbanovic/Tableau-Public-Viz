@@ -145,9 +145,11 @@ Your final product will be assessed on the following metrics:
 
 Data Boot Camp (C) 2019. All Rights Reserved.
 
+<mark>... and this is the end of the assignment description.</mark>
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# And without further ado, here is the final product below!
+# Without further ado, here is the final product below!
 
 **Here is my first story:**
 
