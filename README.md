@@ -4,7 +4,7 @@
 
 ## Citi Bike Analytics
 
-<mark>This is the beginning of the assignment description...</mark>
+- [ ] This is the beginning of the assignment description...
 
 ### Before You Begin
 
@@ -145,7 +145,7 @@ Your final product will be assessed on the following metrics:
 
 Data Boot Camp (C) 2019. All Rights Reserved.
 
-<mark>... and this is the end of the assignment description.</mark>
+- [x] ... and this is the end of the assignment description.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
