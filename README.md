@@ -2,11 +2,11 @@
 
 ![Citi Bike Gif](https://github.com/ognjenstrbanovic/Tableau-Public-Viz/blob/main/gifs/citibike.gif?raw=true)
 
-## Citi Bike Analytics
+### Citi Bike Analytics
 
 - [ ] This is the beginning of the assignment description...
 
-### Before You Begin
+##### Before You Begin
 
 * This assignment will be saved to your tableau public account rather than github. 
 
@@ -18,7 +18,7 @@
 
 * When you are finished with your assignment, you will turn in the URL to your tableau public workbook along with any additional files used for your analysis. 
 
-## Background
+##### Background
 
 Congratulations on your new job! As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 
@@ -26,7 +26,7 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have a number of questions on the program, so your first task on the job is to build a set of data reports to provide the answers.
 
-## Task
+##### Task
 
 **Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.** 
 
@@ -82,11 +82,11 @@ However, while the data has been regularly updated, the team has yet to implemen
 * Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
 * This is what will be presented to the officials, so be sure to make it professional, logical, and visually appealing. 
 
-## Considerations
+##### Considerations
 
 Remember, the people reading your analysis will **NOT** be data analysts. Your audience will be city officials, public administrators, and heads of New York City departments. Your data and analysis needs to be presented in a way that is focused, concise, easy-to-understand, and visually compelling. Your visualizations should be colorful enough to be included in press releases, and your analysis should be thoughtful enough for dictating programmatic changes. 
 
-## Submission 
+##### Submission 
 
 Your final submission should include:
 
@@ -97,12 +97,12 @@ Your final submission should include:
   * 1 Story 
 * A text or markdown file with your analysis on the phenomenons you uncovered from the data.
 
-## Sharing Your Work
+##### Sharing Your Work
 In order to share your work, we are asking that you will save your workbook as a .twbx file so that your TA's can grade them.
 
 To save your workbook as a .twbx file, you will just need to select "Save As..." from the "File" dropdown. Then, select the .twbx option.
 
-## Assessment
+##### Assessment
 
 Your final product will be assessed on the following metrics:
 
@@ -113,7 +113,7 @@ Your final product will be assessed on the following metrics:
 * Visual Attraction
 
 
-## Hints
+##### Hints
 
 * You may need to get creative in how you combine each of the CSV files. Don't just assume Tableau is the right tool for the job. At this point, you have a wealth of technical skills and research abilities. Dig for an approach that works and just go with it.
 
@@ -141,7 +141,7 @@ Your final product will be assessed on the following metrics:
 
 * Good luck!
 
-### Copyright
+###### Copyright
 
 Data Boot Camp (C) 2019. All Rights Reserved.
 
