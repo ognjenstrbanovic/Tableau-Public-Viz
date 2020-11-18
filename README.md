@@ -4,6 +4,8 @@
 
 ## Citi Bike Analytics
 
+<mark>This is the beginning of the assignment description...</mark>
+
 ### Before You Begin
 
 * This assignment will be saved to your tableau public account rather than github. 
