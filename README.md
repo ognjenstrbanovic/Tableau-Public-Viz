@@ -151,16 +151,16 @@ Data Boot Camp (C) 2019. All Rights Reserved.
 
 # Without further ado, here is the final product below!
 
-**Here is my first story:**
+### **Here is my first story:**
 
 ![First Story](https://github.com/ognjenstrbanovic/Tableau-Public-Viz/blob/main/visualizations/My%20First%20Story.jpg?raw=true)
 
-**And here is my second story:**
+### **And here is my second story:**
 
 ![Second Story](https://github.com/ognjenstrbanovic/Tableau-Public-Viz/blob/main/visualizations/My%20Second%20Story.jpg?raw=true)
 
-Both stories feature answers to the questions that I chose to answer in the assignment!
+#### Both stories feature answers to the questions that I chose to answer in the assignment!
 
-Below is the link to my Tableau Public profile... thank you for viewing!
+#### Below is the link to my Tableau Public profile... thank you for viewing!
 
-https://public.tableau.com/profile/ognjen.strbanovic#!/
+#### https://public.tableau.com/profile/ognjen.strbanovic#!/
